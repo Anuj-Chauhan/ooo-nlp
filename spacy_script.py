@@ -1,5 +1,7 @@
 """Sample file to run spacy for Global OIC"""
 
+__author__ = 'Anuj Chauhan'
+
 import spacy
 import sys
 import json
