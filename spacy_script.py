@@ -1,4 +1,4 @@
-"""Sample file to run spacy for Global OIC"""
+"""Sample file to run spacy for NLP"""
 
 __author__ = 'Anuj Chauhan'
 
