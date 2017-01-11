@@ -10,10 +10,10 @@ sample_text = u"""Hi,
 
 I'm in training till January 14.
 
-For MarkitWire related queries contact Archit Kapoor.
-For iLab related queries contact Aravind Rao.
+For Music related queries contact Archit Kapoor.
+For Dance related queries contact Aravind Rao.
 
-For any escalations contact my manager Sunil Vishwa Shingate.
+For any escalations contact my manager Prakhar Gupta.
 
 Thanks and Regards,
 Anuj Chauhan
